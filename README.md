@@ -12,4 +12,4 @@ For maintaining code quality I am using pre-commit hooks. The hooks are stored i
 
 [Day 1](https://adventofcode.com/2022/day/1) is about reading a list of numbers (calories of food carried by Elves) and finding the Elf that carries most of them, and provide the total amount of calories.
 
-The solution is available in [day1.py](2022/day1.py).
+The solution is available in [day1.py](2022/day01.py).
